@@ -40,9 +40,9 @@ const Footer = () => {
                 <div className="flex-1">
                     <h3 className="text-lg font-bold text-green-600">Contact Us</h3>
                     <ul className="mt-2 space-y-2">
-                        <li>Email: support@ecofriendly.com</li>
-                        <li>Phone: +123-456-7890</li>
-                        <li>Address: 123 Green Lane, Eco City</li>
+                        <li>Email: mamoonkaleem57@gmail.com</li>
+                        <li>Phone: +92-3037548989</li>
+                        <li>Address: 123 Township, Lahore City</li>
                     </ul>
                 </div>
             </div>
