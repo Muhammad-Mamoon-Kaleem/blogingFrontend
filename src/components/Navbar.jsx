@@ -164,7 +164,7 @@ const Navbar = () => {
                         >
                             Green Environment
                         </NavLink>
-                        <NavLink onClick={toggleMenu}
+                     {token &&  <NavLink onClick={toggleMenu}
                             to="/myfavourite"
                             className={({ isActive }) =>
                                 isActive
@@ -174,6 +174,7 @@ const Navbar = () => {
                         >
                             My Favourites
                         </NavLink>
+                     }
                     </div>
                 </div>
             )}
